@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tipCalculator</string>
+    <string name="Bill">Bill total:</string>
+    <string name="tip">Tip:</string>
+    <string name="tip10">10 %</string>
+    <string name="tip15">15 %</string>
+    <string name="tip18">18 %</string>
+    <string name="tip20">20 %</string>
+    <string name="total">Total:</string>
+    <string name="custom_percent">Custom:</string>
+    <string name="count">=</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="elevate">^</string>
+    <string name="square">√</string>
+    <string name="coma">,</string>
+    <string name="calculator">Calculator</string>
+    <string name="percent_line">0%</string>
+    <string name="menu_3">Percent_calculator</string>
+    <string name="back">назад</string>
+    <string name="pick_number">Вгадайте число від 1 до 100</string>
+    <string name="below">Недоліт</string>
+    <string name="after">Переліт</string>
+    <string name="success">Вгадали</string>
+    <string name="pick_btn">Спробувати</string>
+    <string name="pick_activity">Вгадати число</string>
+    <string name="play_more">Зіграти ще</string>
+    <string name="error">Неправильне введення</string>
+    <string name="guesses_count">Кількість спроб: 0</string>
+</resources>
